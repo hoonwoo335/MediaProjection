@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MediaProjection</string>
+
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="user_cancelled">User denied screen sharing permission</string>
+
+    <string name="media_projection_started">Started mediaProjection</string>
+    <string name="media_projection_stopped">Stopped mediaProjection</string>
+    <string name="media_projection_reject">Reject mediaProjection</string>
+    <string name="media_projection_fail">Fail mediaProjection</string>
+
+</resources>
